@@ -1,0 +1,33 @@
+h1 {
+    background-color: aqua;
+}
+
+#heading{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+#para{
+    font-size: large;
+    color: brown;
+    padding: 10px;
+}
+.lorem{
+    color: blue;
+    background-color: lightcoral;
+    text-align: center;
+}
+#box1{
+    width: 200px;
+    padding: 20px;
+    background-color: lightblue;
+    margin: 30px;
+    border: 2px solid;
+}
+#box2{
+    width: 200px;
+    padding: 20px;
+    background-color: yellow;
+    margin: 30px;
+    border: 2px dashed;
+}
